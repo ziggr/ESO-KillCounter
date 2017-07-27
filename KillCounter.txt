@@ -1,0 +1,18 @@
+## Title: Kill Counter
+## APIVersion: 100014
+## SavedVariables: KillCounter_Data
+## Description: Tracks Kills, Kill Streaks, Seiging, and more.
+## Author: Mikethecoder4
+
+lib/LibStub/LibStub/LibStub.lua
+lib/LibMainMenu/LibMainMenu.lua
+lib/function.lua
+keepcounter.lua
+KillCounter.lua
+lib/sessiongui.lua
+lib/gui.lua
+KillCounter.xml
+xml/virtual.xml
+xml/settings.xml
+xml/Scene_Menu.xml
+bindings.xml
