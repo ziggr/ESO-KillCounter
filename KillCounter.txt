@@ -1,5 +1,5 @@
 ## Title: Kill Counter
-## APIVersion: 100018
+## APIVersion: 100019
 ## SavedVariables: KillCounter_Data
 ## Description: Tracks Kills, Kill Streaks, Seiging, and more.
 ## Author: Mikethecoder4
